@@ -14,3 +14,5 @@ git remote add origin https://github.com/gabrialejo/PruebaCursoGit.git
 git remote -v 
 git push -u origin master
 git pull origin master
+
+otro
