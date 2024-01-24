@@ -1,0 +1,16 @@
+git --version
+ls
+git init
+git config 
+
+
+git add archivo.txt
+git add --all
+git commit -m "Setup inicial del proyecto"
+git commit
+git status
+git log
+git remote add origin https://github.com/gabrialejo/PruebaCursoGit.git
+git remote -v 
+git push -u origin master
+git pull origin master
